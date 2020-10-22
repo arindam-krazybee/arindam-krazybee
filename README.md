@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [iniyan://www.kreditbee.in/dl](iniyan://www.kreditbee.in/dl)
-[![License](iniyan://www.kreditbee.in/dl)](LICENSE)
+[(iniyan://www.kreditbee.in/dl)](XX)
 
 <!--
 **arindam-krazybee/arindam-krazybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
