@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[in](iniyan://kreditbee)
+[click](app://kreditbee)
 
 <!--
 **arindam-krazybee/arindam-krazybee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
